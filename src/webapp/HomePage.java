@@ -10,5 +10,7 @@ public class HomePage {
     //changes2
     //logo
 
+    //footer
+
 
 }
